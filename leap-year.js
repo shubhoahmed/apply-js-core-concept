@@ -19,4 +19,4 @@ function isLeapYear(year) {
 }
 const giveYearInput = 2027;
 const checkLeapYear = isLeapYear(giveYearInput);
-console.log(checkLeapYear);
+console.log(checkLeapYear); 
