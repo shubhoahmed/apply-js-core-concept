@@ -8,6 +8,6 @@ function isOdd(number) {
         return false;
     }
 }
-let giveInput = 5847;
+let giveInput = 584;
 const numberIsOdd = isOdd(giveInput);
 console.log(numberIsOdd);
