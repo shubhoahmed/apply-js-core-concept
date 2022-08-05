@@ -9,6 +9,6 @@ function factorial(number) {
     }
     return mul;
 }
-let inputNum = 9;
+let inputNum = 3;
 const multiplication = factorial(inputNum);
 console.log(multiplication);
