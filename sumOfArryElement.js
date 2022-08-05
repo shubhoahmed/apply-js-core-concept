@@ -10,4 +10,4 @@ function getSumOfAnArray(array) {
 }
 const myNumbers = [12, 14, 54, 84, 16, 64, 85, 77, 99];
 let summation = getSumOfAnArray(myNumbers);
-console.log(summation);
+console.log(summation); 
